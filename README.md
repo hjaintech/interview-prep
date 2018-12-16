@@ -18,4 +18,4 @@ Topics pending to be covered
 
 
 Video tutorial links
-- [Software Interview Preparation Guide - Strategies and Resources on How to (by Gaurav Sen)] (https://www.youtube.com/watch?time_continue=768&v=bBPHpH8aKjw)
+- [Software Interview Preparation Guide - Strategies and Resources on How to](https://www.youtube.com/watch?time_continue=768&v=bBPHpH8aKjw)
