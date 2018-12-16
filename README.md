@@ -19,4 +19,8 @@ Topics pending to be covered
 
 Video tutorial links
 - [Software Interview Preparation Guide - Strategies and Resources on How to - By Gaurav Sen](https://www.youtube.com/watch?time_continue=768&v=bBPHpH8aKjw)
+- [Coding Made Simple - By Tushar Roy](https://www.youtube.com/user/tusharroy2525/)
+
+Programming Questions
 - [Programming Inteview Questions - By Arden Dertat](http://www.ardendertat.com/2012/01/09/programming-interview-questions/)
+
