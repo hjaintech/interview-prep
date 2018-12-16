@@ -15,3 +15,7 @@ Topics pending to be covered
 - Improve performance of a web application (First load + afterwards)
 - POST vs GET
 - Cookies vs LocalStorage
+
+
+Video tutorial links
+- [Software Interview Preparation Guide - Strategies and Resources on How to (by Gaurav Sen)] (https://www.youtube.com/watch?time_continue=768&v=bBPHpH8aKjw)
