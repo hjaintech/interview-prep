@@ -15,6 +15,9 @@ Topics pending to be covered
 - Improve performance of a web application (First load + afterwards)
 - POST vs GET
 - Cookies vs LocalStorage
+- Rest vs Soap API
+- HTTP vs HTTPS
+- Object Oriented programming concepts
 
 
 Video tutorial links
