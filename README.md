@@ -1,5 +1,12 @@
 # Frontend Interview Preperation Guide
 
+#Questions
+1. What is CORS? How does it work in browsers? What is preflight request ? [Asked by: Goldman Sachs]
+2. Why do we need Redux? Why can't same thing be done by a global state? [Asked By: Goldman Sachs]
+3. Explain how does virtual DOM works exactly ? Do a walkthrough of how it works when something is to be rendered and when something is to be updated [Asked By: Goldman Sachs]
+4. What happens when you enter a URL in the browser? [Asked By: Goldman Sachs]
+
+
 Topics pending to be covered
 - Closures (including application of closures. For example: maintaining counter using closures)
 - Difference between var, let and const
