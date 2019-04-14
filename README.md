@@ -7,7 +7,7 @@
 4. What happens when you enter a URL in the browser? [Asked By: Goldman Sachs]
 5. Apart from the task queue, what other queues are there in browser? [Answer: 2, Render queue and microtask queue - for resolving promises. They do have a priority as well]. [Asked by: Harness]
 6. If we define a class in JS using arrow functions and without using class keyword, would it work? [Asked by: Harness]
-
+7. ES6 features and properties. - let, const, arrow, classes, async/await
 
 Topics pending to be covered
 - Closures (including application of closures. For example: maintaining counter using closures)
