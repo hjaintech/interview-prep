@@ -9,6 +9,10 @@
 6. If we define a class in JS using arrow functions and without using class keyword, would it work? [Asked by: Harness]
 7. Describe ES6 features and properties. - let, const, arrow, classes, async/await [Asked by: Goldman Sachs]
 8. How does virtual DOM works in React? Talk about React Fibre, the reconciliation algorithm of react. [Asked By: Goldman Sachs]
+9. What is event loop and how does it work?
+For solution, refer to below links.
+https://www.youtube.com/watch?v=cCOL7MC4Pl0
+https://www.youtube.com/watch?v=8aGhZQkoFbQ
 
 Topics pending to be covered
 - Closures (including application of closures. For example: maintaining counter using closures)
