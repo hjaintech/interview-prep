@@ -2,7 +2,7 @@
 I created this repo to help engineers with their preparation for frontend interviews. Feel free to star/fork it for future reference.
 
 # Call for Help/Contribution
-Feel free to raise PRs to enrich this repo with more questions. Also most of the answers are yet to be added. Feel free to add them as well.
+Feel free to raise PRs to enrich this repo with more questions (Don't forget to add placeholder for answer as well). Also most of the answers are yet to be added. Feel free to add them as well.
 
 
 # Questions
