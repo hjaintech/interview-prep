@@ -53,7 +53,8 @@ Once the page is loaded, the browser sends further async requests as needed.
 5. ### Apart from the task queue, what other queues are there in browser? 
     2, Render queue and microtask queue - for resolving promises.They do have a priority as well.
 6. ### If we define a class in JS using arrow functions and without using class keyword, would it work?
-     Answer To be added
+     This wouldn't work. because it will not only throw a syntax SyntaxError(" `${name}` is not a constructor"). but semantically, a class
+     need to set its 'this' context to all functions and variables inside it. Arrow functions this context is set to its parent (surrounding code) and not its children/itself.
 7. ### Describe ES6 features and properties.
      Answer To be added
 8. ### How does virtual DOM works in React? Talk about React Fibre, the reconciliation algorithm of react.
