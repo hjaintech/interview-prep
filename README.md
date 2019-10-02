@@ -72,7 +72,8 @@ Once the page is loaded, the browser sends further async requests as needed.
 13. ### What are controlled and uncontrolled inputs in React ?
      Answer To be added
 14. ### What is a closure? How can it be used ?
-     Answer To be added
+     closures gives access to an outer function's scope from an inner function.
+     it is a mechanism used to enable data privacy
 15. ### Why do we need redux? Why can't we just use a global state?
      Answer To be added
 16. ### Event Propogation and Event bubbling?
@@ -82,7 +83,10 @@ Once the page is loaded, the browser sends further async requests as needed.
 18. ### Difference between call, apply and bind?
      Answer To be added
 19. ### What is async and await. What does a async function return?
-     Answer To be added
+     Async and Await are extensions of promises.
+     Async functions enable us to write promise based code as if it were synchronous, 
+     but without blocking the execution thread by operating asynchronously via the event-loop.
+     Await makes JavaScript wait until the promise returns a result.
 20. ### What is a Higher Order Component ? Give example and explain the use cases where it should be used.
      Answer To be added
 21. ### How to deep clone a object in javascript ?
