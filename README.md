@@ -43,7 +43,13 @@ Feel free to raise PRs to enrich this repo with more questions (Don't forget to 
 3. ### Explain how does virtual DOM works exactly
      Answer To be added
 4. ### What happens when you enter a URL in the browser?
-     Answer To be added
+    1.You enter a URL into a web browser.
+    2.The browser looks up the IP address for the domain name via DNS
+    3.The browser sends a HTTP request to the server
+    4.The server sends back a HTTP response
+    5.The browser begins rendering the HTML
+    6.The browser sends requests for additional objects embedded in HTML (images, css, JavaScript) and repeats steps 3-5.
+Once the page is loaded, the browser sends further async requests as needed.
 5. ### Apart from the task queue, what other queues are there in browser? 
     2, Render queue and microtask queue - for resolving promises.They do have a priority as well.
 6. ### If we define a class in JS using arrow functions and without using class keyword, would it work?
