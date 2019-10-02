@@ -1,5 +1,5 @@
 # Frontend Interview Preperation Guide
-I created this repo to help engineers with their preparation for frontend interviews.
+I created this repo to help engineers with their preparation for frontend interviews. Feel free to star/fork it for future reference.
 
 # Call for Help/Contribution
 Feel free to raise PRs to enrich this repo with more questions. Also most of the answers are yet to be added. Feel free to add them as well.
