@@ -1,5 +1,8 @@
 # Frontend Interview Preperation Guide
 
+| No. | Questions |
+|---- | ---------
+|1  | [What are the possible ways to create objects in JavaScript?](#what-are-the-possible-ways-to-create-objects-in-javascript) |
 # Questions
 1. What is CORS? How does it work in browsers? What is preflight request ? [Asked by: Goldman Sachs]
 2. Why do we need Redux? Why can't same thing be done by a global state? [Asked By: Goldman Sachs]
@@ -56,4 +59,6 @@ Video tutorial links
 
 Programming Questions
 - [Programming Inteview Questions - By Arden Dertat](http://www.ardendertat.com/2012/01/09/programming-interview-questions/)
+
+1. ### What are the possible ways to create objects in JavaScript?
 
