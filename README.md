@@ -59,9 +59,10 @@ Once the page is loaded, the browser sends further async requests as needed.
 8. ### How does virtual DOM works in React? Talk about React Fibre, the reconciliation algorithm of react.
      Answer To be added
 9. ### What is event loop and how does it work?
-    For solution, refer to below links.
-    https://www.youtube.com/watch?v=cCOL7MC4Pl0
-    https://www.youtube.com/watch?v=8aGhZQkoFbQ
+   > For solution, refer to below links.
+
+    [![loop](http://img.youtube.com/vi/cCOL7MC4Pl0/0.jpg)](http://www.youtube.com/watch?v=cCOL7MC4Pl0 "Jake Archibald: In The Loop - JSConf.Asia")
+    [![event loop](http://img.youtube.com/vi/8aGhZQkoFbQ/0.jpg)](http://www.youtube.com/watch?v=8aGhZQkoFbQ "What is event loop?")
 10. ### Difference between state and props
      Answer To be added
 11. ### Why we need key in react lists? What happens if we provide the index as the key ?
