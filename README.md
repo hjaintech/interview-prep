@@ -2,9 +2,9 @@
 
 | No. | Questions |
 |---- | ---------
-|1  | [What are the possible ways to create objects in JavaScript?](#what-are-the-possible-ways-to-create-objects-in-javascript) |
+|1  | [What is CORS? How does it work in browsers? What is preflight request](#What-is-CORS?-How-does-it-work-in-browsers?-What-is-preflight-request) |
 # Questions
-1. What is CORS? How does it work in browsers? What is preflight request ? [Asked by: Goldman Sachs]
+1. What is CORS? How does it work in browsers? What is preflight request ?
 2. Why do we need Redux? Why can't same thing be done by a global state? [Asked By: Goldman Sachs]
 3. Explain how does virtual DOM works exactly ? Do a walkthrough of how it works when something is to be rendered and when something is to be updated [Asked By: Goldman Sachs]
 4. What happens when you enter a URL in the browser? [Asked By: Goldman Sachs]
@@ -60,5 +60,5 @@ Video tutorial links
 Programming Questions
 - [Programming Inteview Questions - By Arden Dertat](http://www.ardendertat.com/2012/01/09/programming-interview-questions/)
 
-1. ### What are the possible ways to create objects in JavaScript?
+1. ### What is CORS? How does it work in browsers? What is preflight request
 
