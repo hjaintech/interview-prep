@@ -78,11 +78,13 @@ Feel free to raise PRs to enrich this repo with more questions (Don't forget to 
 15. ### Why do we need redux? Why can't we just use a global state?
      Answer To be added
 16. ### Event Propogation and Event bubbling?
-     Answer To be added
+     Event propagation is a mechanism that defines how events propagate or travel through the DOM tree to arrives at its target and what happens to it afterward.
+     Event bubbling is a type of event propagation where the event first triggers on the deepest target element. It causes all events in the child nodes to be automatically passed to its parent nodes. The advantage of this method is speed because the code only requires to traverse the DOM tree once.
 17. ### Difference between debouncing and throttling?
      Answer To be added
 18. ### Difference between call, apply and bind?
-     Answer To be added
+     Call/apply call the function immediately, whereas bind returns a function that, when later executed.
+     Use .bind() when you want that function to later be called with a certain context, useful in events. Use .call() or .apply() when you want to invoke the function immediately, and modify the context.
 19. ### What is async and await. What does a async function return?
      Async and Await are extensions of promises.
      Async functions enable us to write promise based code as if it were synchronous, 
