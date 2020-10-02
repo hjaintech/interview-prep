@@ -41,7 +41,13 @@ Feel free to raise PRs to enrich this repo with more questions (Don't forget to 
 2. ### Why do we need Redux? Why can't same thing be done by a global state?
      Answer To be added
 3. ### Explain how does virtual DOM works exactly
-     Answer To be added
+     The Virtual DOM is a plain JS object (instead of tree of nodes) that represent the actual DOM. It is faster and more efficient to modify. <br>
+     This is how it works :
+     1. Once an event happens, figure out what needs to change in the Virtual DOM
+     2. Update the Virtual DOM accordingly (if it needs to update)
+     3. Compare the Virtual DOM's current and latest versions,
+          When it finds a difference, it will update the actual DOM in the specific location.
+     - This concept wasn't invented by React.
 4. ### What happens when you enter a URL in the browser?
     1. You enter a URL into a web browser.<br>
     2. The browser looks up the IP address for the domain name via DNS.<br>
